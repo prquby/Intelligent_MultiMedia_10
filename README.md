@@ -1,2 +1,2 @@
-# -_10-
+# Intelligent_MultiMedia_10
 지능형멀티미디어 프로젝트
