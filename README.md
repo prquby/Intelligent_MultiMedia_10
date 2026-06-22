@@ -2,9 +2,9 @@
 지능형멀티미디어 프로젝트
 
 # 사용 방법
-python train_classifier.py 로 모델 학습<br>
-python GUI_Main.py 로 GUI 실행<br>
-python evaluate_full_metrics.py 로 테스트 실행
+```python train_classifier.py```로 모델 학습<br>
+```python GUI_Main.py``` 로 GUI 실행<br>
+```python evaluate_full_metrics.py``` 로 테스트 실행
 
 # 데이터셋
 https://drive.google.com/file/d/1i4iff8k2RewvPogOIzElTs26WJyKc1lW/view?usp=sharing 학습용 데이터셋<br>
